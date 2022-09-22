@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "734423465739",
+    "firebase_url": "https://collectme-a4b2e-default-rtdb.firebaseio.com",
+    "project_id": "collectme-a4b2e",
+    "storage_bucket": "collectme-a4b2e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734423465739:android:b4711da7ab713f638fac0e",
+        "android_client_info": {
+          "package_name": "com.example.collectme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734423465739-po6d6ajrrl0t8s3u28vbuffo234qg0k7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNmTZOpivofY8cyyOWGxqBkXSgiSZQV08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734423465739-po6d6ajrrl0t8s3u28vbuffo234qg0k7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
